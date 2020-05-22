@@ -12,6 +12,8 @@ Each library used by ghostwriter was updated and moved to a separate VS2017 proj
 
 You can go to the section of [releases](https://github.com/michelolvera/vs-ghostwriter/releases), there you will find the installer for Windows of the most recent version and the previous ones.
 
+> For this program to work properly, you need to install [**Microsoft Visual C++ 2015-2019**](https://support.microsoft.com/help/2977003/the-latest-supported-visual-c-downloads), otherwise you will get an error "**VCRUNTIME140_1.dll not found**"
+
 ## How to build
 
 First of all, the following is necessary:
