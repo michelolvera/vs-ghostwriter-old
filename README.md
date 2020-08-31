@@ -14,6 +14,8 @@ You can go to the section of [releases](https://github.com/michelolvera/vs-ghost
 
 > For this program to work properly, you need to install [**Microsoft Visual C++ 2015-2019**](https://support.microsoft.com/help/2977003/the-latest-supported-visual-c-downloads), otherwise you will get an error "**VCRUNTIME140_1.dll not found**"
 
+> Another workaround (if you don't want to install the software) is to download **VCRUNTIME140_1.dll** inside the extracted folder. More informations about this file [here](https://www.dll-files.com/vcruntime140_1.dll.html).
+
 ## How to build
 
 First of all, the following is necessary:
