@@ -1,3 +1,7 @@
+# This repo is deprecated
+
+The new repo with the latest updates is: [https://github.com/michelolvera/vs-ghostwriter](https://github.com/michelolvera/vs-ghostwriter).
+
 # vs-ghostwriter
 
 Fork of [Ghostwriter](https://github.com/wereturtle/ghostwriter). A beautiful cross-platform markdown editor, however this fork is intended to be compiled into VS 2017 (MSVC) x64 for Windows only.
